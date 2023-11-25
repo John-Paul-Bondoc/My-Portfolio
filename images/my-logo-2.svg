@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1488" height="505" viewBox="0 0 1488 505">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 300px;
+        fill: #101820;
+      }
+
+      .cls-1 {
+        font-family: Quicksand;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        font-family: Futura;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="DESIGNS" class="cls-1" transform="translate(-18 488.518) scale(1.243 1)">DESIGNS</text>
+  <text id="BONDOC" class="cls-2" transform="translate(1 252.703) scale(1.048 1.049)">BONDOC</text>
+</svg>
